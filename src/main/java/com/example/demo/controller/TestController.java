@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Ray lei
  * @date 2023/4/9 11:54
  */
-@RestController("test")
+@RestController
 public class TestController {
 
 
